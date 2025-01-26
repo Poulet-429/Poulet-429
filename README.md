@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: poulet / poulet
-- ⚡ Fun fact: J'aimes les poulets
+- ⚡ Fun fact: J'aime les poulets
 
 <!---
 Poulet-429/Poulet-429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
